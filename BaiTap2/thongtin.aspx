@@ -17,7 +17,7 @@
                     <asp:Label ID="lblHoTen" runat="server" Text="Họ Tên:" CssClass="form-label"></asp:Label>
                     <asp:TextBox ID="txtHoTen" runat="server" CssClass="form-control"></asp:TextBox>
                 </div>
-
+                
                 <!-- Ngày Sinh -->
                 <div class="mb-3">
                     <asp:Label ID="lblNgaySinh" runat="server" Text="Ngày Sinh:" CssClass="form-label"></asp:Label>
@@ -72,3 +72,4 @@
     </form>
 </body>
 </html>
+duy
